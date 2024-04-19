@@ -1,0 +1,165 @@
+#title{
+    background-color: #ff4c68;
+    font-family:"Montserrat-Black", sans-serif; 
+    padding-bottom: 15px;
+   
+   
+}
+h1{
+    font-family: "Montserrat-Black", sans-serif;
+    font-size: 3.5rem;
+    line-height: 1.5;
+    font-weight: 950;
+    color: white;
+}
+h2{
+    font-family: "Montserrat-Black", sans-serif;
+    font-size: 3rem;
+    line-height: 1.5rem;
+    font-weight: 780;
+}
+h3{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+
+.container-fluid{
+    padding: 3% 15%;
+}
+
+/* Navigation bar */
+.navbar{
+    padding-bottom: 4.5rem; 
+}
+.nav-item{
+    padding: 0 15px;
+    font-size: large;
+}
+.navbar-brand {
+    color: azure ;
+    font-weight: bold;
+    font-size: 2.5rem;
+
+
+ 
+/* Download Button */
+
+/* Picture */
+}
+.downbutt{
+    margin: 0% 3% 5% 0%;
+}
+
+.lala{
+    padding-top: 50px;
+}
+
+.cat-pic{
+        border-radius: 50px/50px;
+        width: 300px;
+        margin-left: 200px;
+        transform: rotate(20deg);
+        position: absolute;
+        left: 49%;
+}
+@media (max-width: 1028px){
+    .cat-pic{
+        position: static;
+        transform: rotate(0);
+        text-align: center;
+    }
+
+
+}
+
+
+
+/* Icon parts */
+#features{
+    padding: 6% 15%;
+    background-color: white; 
+    position: relative;
+   
+}
+.easy{
+    font-family: "Montserrat-Bold", sans-serif;
+    text-align: center;
+    padding: 5%;
+}
+.fa-circle-check:hover{
+    color: red !important;
+}
+.fa-circle-check{
+    padding: 20px 0px;
+}
+.Elite{
+    font-family: "Montserrat-Bold", sans-serif;
+    text-align: center;
+    padding: 5%;
+}
+.fa-bullseye:hover{
+    color:red !important;
+}
+.fa-bullseye{
+    padding: 20px 0px;
+}
+.Guarantee{
+    font-family: "Montserrat-Bold", sans-serif;
+    text-align: center;
+    padding: 5%;
+}
+.fa-heart:hover{
+    color: red !important;
+}
+.fa-heart{
+    padding: 20px 0px;
+}
+
+/* Testimonial section */
+
+#testimonials{
+    background-color: #ff4c68;
+    text-align: center;
+    color: #fff;
+}
+.garfield{
+    width: 15%;
+    margin: 25px;
+   
+}
+#press{
+    background-color: #ff4c68;
+    text-align: center;
+    padding-bottom: 3%;
+}
+.carousel-item {
+    padding: 10% 15% 8%;
+
+}
+.press-logo{
+    width: 15%;
+    margin: 10px 20px 20px;
+}
+.testimonial-text{
+    line-height: normal;
+}
+.testimonial-image{
+    width: 15%;
+    margin: 20px;
+
+}
+
+/* Pricing section */
+#pricing{
+    padding: 10% 15% 8%;
+}
+.btn1{
+    color: #ff4c68;
+}
+
+.row-cols-1 {
+    
+    padding-top: 40px;
+
+}
+
